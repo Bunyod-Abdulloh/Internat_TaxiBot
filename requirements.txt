@@ -1,0 +1,5 @@
+aiogram~=2.25
+environs~=8.0.0
+asyncpg~=0.28.0
+
+geopy~=2.4.0
